@@ -14,6 +14,8 @@ class WordleUI:
         self.root.title("Lexi")
         self.root.geometry("360x600")
 
+        self.root.iconbitmap("assets/icone.ico")
+
         self.root.bind("<Key>", self.ecoute)
 
         # FRAMES
