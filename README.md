@@ -23,6 +23,14 @@ Each letter is highlighted depending on whether it is in the right position, in 
 - CustomTkinter
 - JSON
 
+## Screenshots
+
+![Lexi screenshot](assets/en_jeu.png)
+
+![Lexi screenshot](assets/win.png)
+
+![Lexi screenshot](assets/lose.png)
+
 ## Setup
 
 Clone the repository:
@@ -33,7 +41,8 @@ cd Lexi
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
-python src/main.py```
+python src/main.py
+```
 
 ## 🔮 Future improvements
 
