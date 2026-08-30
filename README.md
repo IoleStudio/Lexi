@@ -44,7 +44,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## 🔮 Future improvements
+## Future improvements
 
 - Add more animations
 - Improve the visual feedback
